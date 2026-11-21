@@ -1,0 +1,6 @@
+# Mac clutter
+.DS_Store
+._*
+
+# Local notes: CLAUDE.md is a shortcut to an iCloud file, never published
+CLAUDE.md

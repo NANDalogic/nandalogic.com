@@ -6,7 +6,7 @@ The root site for nandalogic.com: plain HTML files, no build step. **Brand spell
 - On each Mac: `~/Code/nandalogic.com` (git keeps the Macs in sync). Plan: `~/Documents/1_Projects/GITHUB-PLAN.md`.
 - The session-start hook pulls; `/end` commits but never pushes this repo (a push is a deploy).
 - A phone cloud session works on a branch and opens a PR; **merging it is the deploy**, so that's Josh's call.
-- `../Sports_Bets/` links point at `~/Documents/1_Projects/Sports_Bets` until Sports_Bets moves to `~/Code` (last). `../Design_Systems/` already resolves in `~/Code`.
+- `../Sports_Bets/` and `../Design_Systems/` links resolve in `~/Code` (Sports_Bets moved there 11/23/2026).
 
 ## Hosting
 - **GitHub Pages**, public repo `NANDalogic/nandalogic.com`, branch `main`, folder `/`. The `CNAME` file holds the domain; don't delete it.
